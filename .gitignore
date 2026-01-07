@@ -1,0 +1,5 @@
+/ngarep/node_modules
+/ngarep/.next
+/ngarep/.env*
+/mburi/vendor
+/mburi/.env
