@@ -3,3 +3,37 @@
 /ngarep/.env*
 /mburi/vendor
 /mburi/.env
+
+
+# Flutter/Dart
+/hp/.dart_tool/
+/hp/.flutter-plugins
+/hp/.flutter-plugins-dependencies
+/hp/.packages
+/hp/.pub-cache/
+/hp/.pub/
+/hp/build/
+
+# Android spesifik
+/hp/android/local.properties
+/hp/android/key.properties
+/hp/android/**/*.keystore
+/hp/android/**/*.jks
+/hp/android/Flutter/Generated.xcconfig
+/hp/android/Flutter/flutter_export_environment.sh
+
+# iOS spesifik
+/hp/ios/Flutter/Generated.xcconfig
+/hp/ios/Flutter/flutter_export_environment.sh
+/hp/ios/Flutter/flutter_export_environment.plist
+/hp/ios/.generated/
+/hp/ios/Pods/
+/hp/ios/ServiceDefinitions.json
+/hp/ios/Runner/GeneratedPluginRegistrant.h
+/hp/ios/Runner/GeneratedPluginRegistrant.m
+
+# Metadata proyek (Opsional, tergantung preferensi tim)
+/hp/.metadata
+
+# Environment variables
+/hp/.env*
